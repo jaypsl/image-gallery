@@ -1,5 +1,5 @@
 
 This single page application is running on following URL.
 
-URL : https://vast-brushlands-22644.herokuapp.com/
+URL : https://jaypsl.github.io/image-gallery/
 
